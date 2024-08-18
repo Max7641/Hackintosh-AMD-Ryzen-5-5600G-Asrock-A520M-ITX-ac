@@ -1,0 +1,15 @@
+127.0.0.1 gg.apple.com
+127.0.0.1 gnf-mdn.apple.com
+127.0.0.1 gnf-mr.apple.com
+127.0.0.1 ig.apple.com
+127.0.0.1 skl.apple.com
+127.0.0.1 swdownload.apple.com
+127.0.0.1 updates-http.cdn-apple.com
+
+127.0.0.1 swdist.apple.com
+127.0.0.1 swscan.apple.com
+127.0.0.1 swcdn.apple.com
+127.0.0.1 xp.apple.com
+127.0.0.1 gdmf.apple.com
+127.0.0.1 mesu.apple.com
+127.0.0.1 updates.cdn-apple.com
